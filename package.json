@@ -1,0 +1,28 @@
+{
+  "name": "interview",
+  "version": "1.0.0",
+  "description": "interview test",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^8.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test",
+    "cypress:start": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlackAngelDragon/javascriptTest.git"
+  },
+  "keywords": [
+    "cypress",
+    "javascript"
+  ],
+  "author": "Luis Angel Flores Guerrero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlackAngelDragon/javascriptTest/issues"
+  },
+  "homepage": "https://github.com/BlackAngelDragon/javascriptTest#readme"
+}
